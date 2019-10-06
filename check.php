@@ -2,7 +2,7 @@
 <html lang="en"> 
 <head>
 	<meta charset="utf-8">
-	<title>Uddeshhya Blood Portal</title>
+	<title>Uddeshhya Blood Donation Portal</title>
 	<meta name="author" content="www.zerotheme.com">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   	<link rel="stylesheet" href="css/zerogrid.css">
